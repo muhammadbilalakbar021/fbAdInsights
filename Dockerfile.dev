@@ -1,0 +1,14 @@
+
+FROM node:18-alpine3.17
+
+WORKDIR /payment
+
+COPY package.json yarn.lock ./
+ADD . ./
+RUN yarn install
+
+RUN yarn build
+
+EXPOSE 4000
+CMD ["yarn","start:dev"]
+
