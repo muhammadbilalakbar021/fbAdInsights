@@ -10,9 +10,9 @@ export class S3Service {
   filePath = 'src/uploads/';
   constructor() {
     this.s3Instance = new S3({
-      accessKeyId: 'AKIAUBJSC6OOYTGIFSWD',
-      secretAccessKey: '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',
-      region: 'eu-north-1',
+      accessKeyId: '',
+      secretAccessKey: 'b2ms8yv2X5/+4fzHqd',
+      region: '',
     });
   }
 
