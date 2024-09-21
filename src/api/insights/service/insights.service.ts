@@ -5,16 +5,18 @@ import { Model } from 'mongoose';
 import { InsightsDto } from '../dto/insights.dto';
 import axios from 'axios';
 import * as fs from 'fs'; // Import fs module
+import * as cheerio from 'cheerio';
 
 @Injectable()
 export class InsightsService {
-  private readonly apiUrl = 'https://graph.facebook.com/v17.0/ads_archive';
+  private apiVersion = 'v17.0'; // Use the latest API version
+  private readonly apiUrl = `https://graph.facebook.com/${this.apiVersion}`;
   private readonly libraryBaseUrl = 'https://www.facebook.com/ads/library/';
 
   constructor(
     @InjectModel(InsightsEntity.name)
     private readonly insightsModel: Model<InsightsDocument>,
-  ) {}
+  ) { }
 
   async getInsights(req, insights_dto) {
     try {
@@ -27,7 +29,7 @@ export class InsightsService {
         access_token: insights_dto.access_token,
       };
 
-      const response = (await axios.get(this.apiUrl, { params })).data;
+      const response = (await axios.get(this.apiUrl+'/ads_archive', { params })).data;
       let data = response.data;
       let next_url = response.paging.next;
 
@@ -65,6 +67,60 @@ export class InsightsService {
     } catch (err) {
       console.error('Error saving data to file:', err);
       throw new Error('Failed to save data to file.');
+    }
+  }
+
+  async getFbScrapingResult(req: string, insights_dto) {
+    try {
+      const fields = [
+        'ad_creative_body',
+        'ad_creative_link_caption',
+        'ad_creative_link_description',
+        'ad_creative_link_title',
+        'ad_delivery_start_time',
+        'ad_delivery_stop_time',
+        'impressions',
+        'spend',
+        'demographic_distribution',
+        'region_distribution',
+        // Add other fields as needed
+      ];
+
+      console.log( `${this.apiUrl}/${insights_dto.adId}`)
+      const response = await axios.get(
+        `${this.apiUrl}/${insights_dto.adId}`,
+        {
+          params: {
+            access_token: insights_dto.access_token,
+            fields: fields.join(','),
+          },
+        },
+      );
+
+      return response.data;
+    } catch (error) {
+      console.log(error)
+      throw new Error('Failed to get the insights.');
+    }
+  }
+
+  async scrapeTextFromEUAdAudience(url: string): Promise<string> {
+    try {
+      // Fetch the HTML content of the webpage
+      const { data } = await axios.get(url);
+      
+      console.log('HTML Content:', data);
+      // Load the HTML into Cheerio for parsing
+      const $ = cheerio.load(data);
+
+      // Select the div with the specified class attributes
+      const text = $(`div.${"x8t9es0"}`).text();
+
+      // Return the scraped text
+      return text;
+    } catch (error) {
+      console.error('Error scraping the page:', error);
+      throw new Error('Failed to scrape the page');
     }
   }
 

@@ -1,8 +1,46 @@
 [
   {
+    "page_id": "105271268816719",
+    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=513935561367926&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
+    "ad_delivery_start_time": "2024-09-20",
+    "id": "513935561367926",
+    "librarylink": "https://www.facebook.com/ads/library/?id=513935561367926"
+  },
+  {
+    "page_id": "140601906010050",
+    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1002725238208789&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
+    "ad_delivery_start_time": "2024-09-20",
+    "id": "1002725238208789",
+    "librarylink": "https://www.facebook.com/ads/library/?id=1002725238208789"
+  },
+  {
+    "page_id": "140601906010050",
+    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1903620590145417&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
+    "ad_delivery_start_time": "2024-09-20",
+    "id": "1903620590145417",
+    "librarylink": "https://www.facebook.com/ads/library/?id=1903620590145417"
+  },
+  {
+    "page_id": "110352895258911",
+    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3877049022554585&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
+    "ad_delivery_start_time": "2024-09-18",
+    "ad_delivery_stop_time": "2024-09-21",
+    "id": "3877049022554585",
+    "librarylink": "https://www.facebook.com/ads/library/?id=3877049022554585"
+  },
+  {
+    "page_id": "1189507854446186",
+    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3518187461789555&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
+    "ad_delivery_start_time": "2024-09-18",
+    "ad_delivery_stop_time": "2024-09-19",
+    "id": "3518187461789555",
+    "librarylink": "https://www.facebook.com/ads/library/?id=3518187461789555"
+  },
+  {
     "page_id": "110352895258911",
     "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=509315138620311&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
     "ad_delivery_start_time": "2024-09-17",
+    "ad_delivery_stop_time": "2024-09-21",
     "id": "509315138620311",
     "librarylink": "https://www.facebook.com/ads/library/?id=509315138620311"
   },
@@ -10,6 +48,7 @@
     "page_id": "110352895258911",
     "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=535241765659286&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
     "ad_delivery_start_time": "2024-09-17",
+    "ad_delivery_stop_time": "2024-09-18",
     "id": "535241765659286",
     "librarylink": "https://www.facebook.com/ads/library/?id=535241765659286"
   },
@@ -17,6 +56,7 @@
     "page_id": "110352895258911",
     "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=881988263370415&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
     "ad_delivery_start_time": "2024-09-17",
+    "ad_delivery_stop_time": "2024-09-18",
     "id": "881988263370415",
     "librarylink": "https://www.facebook.com/ads/library/?id=881988263370415"
   },
@@ -24,6 +64,7 @@
     "page_id": "110352895258911",
     "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1041886120755189&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
     "ad_delivery_start_time": "2024-09-17",
+    "ad_delivery_stop_time": "2024-09-21",
     "id": "1041886120755189",
     "librarylink": "https://www.facebook.com/ads/library/?id=1041886120755189"
   },
@@ -31,6 +72,7 @@
     "page_id": "110352895258911",
     "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1210995413508685&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
     "ad_delivery_start_time": "2024-09-17",
+    "ad_delivery_stop_time": "2024-09-20",
     "id": "1210995413508685",
     "librarylink": "https://www.facebook.com/ads/library/?id=1210995413508685"
   },
@@ -38,6 +80,7 @@
     "page_id": "110352895258911",
     "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1219235219222427&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
     "ad_delivery_start_time": "2024-09-17",
+    "ad_delivery_stop_time": "2024-09-17",
     "id": "1219235219222427",
     "librarylink": "https://www.facebook.com/ads/library/?id=1219235219222427"
   },
@@ -52,6 +95,7 @@
     "page_id": "110352895258911",
     "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1712523332919478&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
     "ad_delivery_start_time": "2024-09-17",
+    "ad_delivery_stop_time": "2024-09-20",
     "id": "1712523332919478",
     "librarylink": "https://www.facebook.com/ads/library/?id=1712523332919478"
   },
@@ -66,7 +110,6 @@
     "page_id": "110352895258911",
     "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3502388910059040&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
     "ad_delivery_start_time": "2024-09-17",
-    "ad_delivery_stop_time": "2024-09-18",
     "id": "3502388910059040",
     "librarylink": "https://www.facebook.com/ads/library/?id=3502388910059040"
   },
@@ -74,6 +117,7 @@
     "page_id": "110352895258911",
     "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=27040134752267398&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
     "ad_delivery_start_time": "2024-09-17",
+    "ad_delivery_stop_time": "2024-09-20",
     "id": "27040134752267398",
     "librarylink": "https://www.facebook.com/ads/library/?id=27040134752267398"
   },
@@ -81,6 +125,7 @@
     "page_id": "182094512713139",
     "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1247194029735101&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
     "ad_delivery_start_time": "2024-09-16",
+    "ad_delivery_stop_time": "2024-09-20",
     "id": "1247194029735101",
     "librarylink": "https://www.facebook.com/ads/library/?id=1247194029735101"
   },
@@ -153,6 +198,13 @@
     "librarylink": "https://www.facebook.com/ads/library/?id=1470529873640627"
   },
   {
+    "page_id": "110352895258911",
+    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1664004494456092&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
+    "ad_delivery_start_time": "2024-09-13",
+    "id": "1664004494456092",
+    "librarylink": "https://www.facebook.com/ads/library/?id=1664004494456092"
+  },
+  {
     "page_id": "2119384871645831",
     "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1501323247411229&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
     "ad_delivery_start_time": "2024-09-12",
@@ -163,6 +215,7 @@
     "page_id": "105271268816719",
     "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=502555675904479&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
     "ad_delivery_start_time": "2024-09-12",
+    "ad_delivery_stop_time": "2024-09-20",
     "id": "502555675904479",
     "librarylink": "https://www.facebook.com/ads/library/?id=502555675904479"
   },
@@ -208,6 +261,7 @@
     "page_id": "106306705745201",
     "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=486909230891436&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
     "ad_delivery_start_time": "2024-09-09",
+    "ad_delivery_stop_time": "2024-09-20",
     "id": "486909230891436",
     "librarylink": "https://www.facebook.com/ads/library/?id=486909230891436"
   },
@@ -244,6 +298,7 @@
     "page_id": "110352895258911",
     "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=874961864151248&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
     "ad_delivery_start_time": "2024-09-08",
+    "ad_delivery_stop_time": "2024-09-19",
     "id": "874961864151248",
     "librarylink": "https://www.facebook.com/ads/library/?id=874961864151248"
   },
@@ -326,6 +381,7 @@
     "page_id": "110352895258911",
     "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3836129393329430&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
     "ad_delivery_start_time": "2024-09-08",
+    "ad_delivery_stop_time": "2024-09-21",
     "id": "3836129393329430",
     "librarylink": "https://www.facebook.com/ads/library/?id=3836129393329430"
   },
@@ -356,6 +412,7 @@
     "page_id": "110352895258911",
     "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1598136567579934&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
     "ad_delivery_start_time": "2024-09-08",
+    "ad_delivery_stop_time": "2024-09-20",
     "id": "1598136567579934",
     "librarylink": "https://www.facebook.com/ads/library/?id=1598136567579934"
   },
@@ -757,7 +814,7 @@
     "page_id": "597500713712416",
     "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=477778301791422&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
     "ad_delivery_start_time": "2024-09-04",
-    "ad_delivery_stop_time": "2024-09-16",
+    "ad_delivery_stop_time": "2024-09-17",
     "id": "477778301791422",
     "librarylink": "https://www.facebook.com/ads/library/?id=477778301791422"
   },
@@ -776,6 +833,13 @@
     "ad_delivery_stop_time": "2024-09-07",
     "id": "1196757404873557",
     "librarylink": "https://www.facebook.com/ads/library/?id=1196757404873557"
+  },
+  {
+    "page_id": "110352895258911",
+    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1615267049390715&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
+    "ad_delivery_start_time": "2024-09-02",
+    "id": "1615267049390715",
+    "librarylink": "https://www.facebook.com/ads/library/?id=1615267049390715"
   },
   {
     "page_id": "63628258782",
@@ -1567,6 +1631,7 @@
     "page_id": "463663920762900",
     "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=4250598725178989&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
     "ad_delivery_start_time": "2024-08-24",
+    "ad_delivery_stop_time": "2024-09-01",
     "id": "4250598725178989",
     "librarylink": "https://www.facebook.com/ads/library/?id=4250598725178989"
   },
@@ -1574,6 +1639,7 @@
     "page_id": "463663920762900",
     "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=386453924224711&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
     "ad_delivery_start_time": "2024-08-24",
+    "ad_delivery_stop_time": "2024-09-01",
     "id": "386453924224711",
     "librarylink": "https://www.facebook.com/ads/library/?id=386453924224711"
   },
@@ -3079,7 +3145,7 @@
     "page_id": "107038935176890",
     "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=505303599131716&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
     "ad_delivery_start_time": "2024-07-01",
-    "ad_delivery_stop_time": "2024-09-18",
+    "ad_delivery_stop_time": "2024-09-19",
     "id": "505303599131716",
     "librarylink": "https://www.facebook.com/ads/library/?id=505303599131716"
   },
@@ -3109,7 +3175,7 @@
     "page_id": "107038935176890",
     "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=760457726163786&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
     "ad_delivery_start_time": "2024-07-02",
-    "ad_delivery_stop_time": "2024-09-18",
+    "ad_delivery_stop_time": "2024-09-19",
     "id": "760457726163786",
     "librarylink": "https://www.facebook.com/ads/library/?id=760457726163786"
   },
@@ -3165,6 +3231,7 @@
     "page_id": "107038935176890",
     "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1568649407329353&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
     "ad_delivery_start_time": "2024-07-02",
+    "ad_delivery_stop_time": "2024-09-21",
     "id": "1568649407329353",
     "librarylink": "https://www.facebook.com/ads/library/?id=1568649407329353"
   },
@@ -15299,14 +15366,6 @@
   },
   {
     "page_id": "103992786357969",
-    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=271748465700605&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
-    "ad_delivery_start_time": "2023-09-21",
-    "ad_delivery_stop_time": "2023-09-22",
-    "id": "271748465700605",
-    "librarylink": "https://www.facebook.com/ads/library/?id=271748465700605"
-  },
-  {
-    "page_id": "103992786357969",
     "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=296899219708977&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
     "ad_delivery_start_time": "2023-09-21",
     "ad_delivery_stop_time": "2023-09-24",
@@ -15323,14 +15382,6 @@
   },
   {
     "page_id": "103992786357969",
-    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=628700925799963&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
-    "ad_delivery_start_time": "2023-09-21",
-    "ad_delivery_stop_time": "2023-09-22",
-    "id": "628700925799963",
-    "librarylink": "https://www.facebook.com/ads/library/?id=628700925799963"
-  },
-  {
-    "page_id": "103992786357969",
     "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=667723628645535&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
     "ad_delivery_start_time": "2023-09-21",
     "ad_delivery_stop_time": "2023-09-24",
@@ -15339,27 +15390,11 @@
   },
   {
     "page_id": "103992786357969",
-    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=717997416808999&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
-    "ad_delivery_start_time": "2023-09-21",
-    "ad_delivery_stop_time": "2023-09-22",
-    "id": "717997416808999",
-    "librarylink": "https://www.facebook.com/ads/library/?id=717997416808999"
-  },
-  {
-    "page_id": "103992786357969",
     "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=829774998681976&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
     "ad_delivery_start_time": "2023-09-21",
     "ad_delivery_stop_time": "2023-10-04",
     "id": "829774998681976",
     "librarylink": "https://www.facebook.com/ads/library/?id=829774998681976"
-  },
-  {
-    "page_id": "103992786357969",
-    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=854580475882882&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
-    "ad_delivery_start_time": "2023-09-21",
-    "ad_delivery_stop_time": "2023-09-21",
-    "id": "854580475882882",
-    "librarylink": "https://www.facebook.com/ads/library/?id=854580475882882"
   },
   {
     "page_id": "103992786357969",
@@ -15427,35 +15462,11 @@
   },
   {
     "page_id": "103992786357969",
-    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=650954630473108&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
-    "ad_delivery_start_time": "2023-09-20",
-    "ad_delivery_stop_time": "2023-09-22",
-    "id": "650954630473108",
-    "librarylink": "https://www.facebook.com/ads/library/?id=650954630473108"
-  },
-  {
-    "page_id": "103992786357969",
-    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2363752697153675&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
-    "ad_delivery_start_time": "2023-09-20",
-    "ad_delivery_stop_time": "2023-09-21",
-    "id": "2363752697153675",
-    "librarylink": "https://www.facebook.com/ads/library/?id=2363752697153675"
-  },
-  {
-    "page_id": "103992786357969",
     "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=668745035211037&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
     "ad_delivery_start_time": "2023-09-20",
     "ad_delivery_stop_time": "2023-10-02",
     "id": "668745035211037",
     "librarylink": "https://www.facebook.com/ads/library/?id=668745035211037"
-  },
-  {
-    "page_id": "103992786357969",
-    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=177566578714670&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
-    "ad_delivery_start_time": "2023-09-20",
-    "ad_delivery_stop_time": "2023-09-22",
-    "id": "177566578714670",
-    "librarylink": "https://www.facebook.com/ads/library/?id=177566578714670"
   },
   {
     "page_id": "103992786357969",
@@ -15467,35 +15478,11 @@
   },
   {
     "page_id": "103992786357969",
-    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=281694457986805&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
-    "ad_delivery_start_time": "2023-09-20",
-    "ad_delivery_stop_time": "2023-09-22",
-    "id": "281694457986805",
-    "librarylink": "https://www.facebook.com/ads/library/?id=281694457986805"
-  },
-  {
-    "page_id": "103992786357969",
     "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=160224010467770&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
     "ad_delivery_start_time": "2023-09-19",
     "ad_delivery_stop_time": "2023-09-24",
     "id": "160224010467770",
     "librarylink": "https://www.facebook.com/ads/library/?id=160224010467770"
-  },
-  {
-    "page_id": "103992786357969",
-    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=333020585806403&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
-    "ad_delivery_start_time": "2023-09-19",
-    "ad_delivery_stop_time": "2023-09-22",
-    "id": "333020585806403",
-    "librarylink": "https://www.facebook.com/ads/library/?id=333020585806403"
-  },
-  {
-    "page_id": "103992786357969",
-    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=129222953581631&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
-    "ad_delivery_start_time": "2023-09-19",
-    "ad_delivery_stop_time": "2023-09-21",
-    "id": "129222953581631",
-    "librarylink": "https://www.facebook.com/ads/library/?id=129222953581631"
   },
   {
     "page_id": "103992786357969",
@@ -15507,59 +15494,11 @@
   },
   {
     "page_id": "103992786357969",
-    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1422252375000760&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
-    "ad_delivery_start_time": "2023-09-19",
-    "ad_delivery_stop_time": "2023-09-20",
-    "id": "1422252375000760",
-    "librarylink": "https://www.facebook.com/ads/library/?id=1422252375000760"
-  },
-  {
-    "page_id": "103992786357969",
-    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=537181575265647&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
-    "ad_delivery_start_time": "2023-09-19",
-    "ad_delivery_stop_time": "2023-09-20",
-    "id": "537181575265647",
-    "librarylink": "https://www.facebook.com/ads/library/?id=537181575265647"
-  },
-  {
-    "page_id": "103992786357969",
     "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1533627077200317&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
     "ad_delivery_start_time": "2023-09-19",
     "ad_delivery_stop_time": "2023-09-29",
     "id": "1533627077200317",
     "librarylink": "https://www.facebook.com/ads/library/?id=1533627077200317"
-  },
-  {
-    "page_id": "103992786357969",
-    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1491016644773022&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
-    "ad_delivery_start_time": "2023-09-19",
-    "ad_delivery_stop_time": "2023-09-21",
-    "id": "1491016644773022",
-    "librarylink": "https://www.facebook.com/ads/library/?id=1491016644773022"
-  },
-  {
-    "page_id": "103992786357969",
-    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=709620020978832&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
-    "ad_delivery_start_time": "2023-09-19",
-    "ad_delivery_stop_time": "2023-09-22",
-    "id": "709620020978832",
-    "librarylink": "https://www.facebook.com/ads/library/?id=709620020978832"
-  },
-  {
-    "page_id": "103992786357969",
-    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=837729884675956&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
-    "ad_delivery_start_time": "2023-09-19",
-    "ad_delivery_stop_time": "2023-09-21",
-    "id": "837729884675956",
-    "librarylink": "https://www.facebook.com/ads/library/?id=837729884675956"
-  },
-  {
-    "page_id": "103992786357969",
-    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=184374474611260&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
-    "ad_delivery_start_time": "2023-09-19",
-    "ad_delivery_stop_time": "2023-09-22",
-    "id": "184374474611260",
-    "librarylink": "https://www.facebook.com/ads/library/?id=184374474611260"
   },
   {
     "page_id": "103992786357969",
@@ -15571,22 +15510,6 @@
   },
   {
     "page_id": "103992786357969",
-    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1034856017521270&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
-    "ad_delivery_start_time": "2023-09-19",
-    "ad_delivery_stop_time": "2023-09-20",
-    "id": "1034856017521270",
-    "librarylink": "https://www.facebook.com/ads/library/?id=1034856017521270"
-  },
-  {
-    "page_id": "103992786357969",
-    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=239610659081571&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
-    "ad_delivery_start_time": "2023-09-19",
-    "ad_delivery_stop_time": "2023-09-21",
-    "id": "239610659081571",
-    "librarylink": "https://www.facebook.com/ads/library/?id=239610659081571"
-  },
-  {
-    "page_id": "103992786357969",
     "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1775929676194401&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
     "ad_delivery_start_time": "2023-09-19",
     "ad_delivery_stop_time": "2023-09-22",
@@ -15595,75 +15518,11 @@
   },
   {
     "page_id": "103992786357969",
-    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=967727454312264&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
-    "ad_delivery_start_time": "2023-09-19",
-    "ad_delivery_stop_time": "2023-09-20",
-    "id": "967727454312264",
-    "librarylink": "https://www.facebook.com/ads/library/?id=967727454312264"
-  },
-  {
-    "page_id": "103992786357969",
-    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=611887497541285&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
-    "ad_delivery_start_time": "2023-09-19",
-    "ad_delivery_stop_time": "2023-09-21",
-    "id": "611887497541285",
-    "librarylink": "https://www.facebook.com/ads/library/?id=611887497541285"
-  },
-  {
-    "page_id": "103992786357969",
-    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=128618153668348&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
-    "ad_delivery_start_time": "2023-09-19",
-    "ad_delivery_stop_time": "2023-09-20",
-    "id": "128618153668348",
-    "librarylink": "https://www.facebook.com/ads/library/?id=128618153668348"
-  },
-  {
-    "page_id": "103992786357969",
-    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=853314286486902&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
-    "ad_delivery_start_time": "2023-09-19",
-    "ad_delivery_stop_time": "2023-09-20",
-    "id": "853314286486902",
-    "librarylink": "https://www.facebook.com/ads/library/?id=853314286486902"
-  },
-  {
-    "page_id": "103992786357969",
-    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1523133501832092&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
-    "ad_delivery_start_time": "2023-09-19",
-    "ad_delivery_stop_time": "2023-09-20",
-    "id": "1523133501832092",
-    "librarylink": "https://www.facebook.com/ads/library/?id=1523133501832092"
-  },
-  {
-    "page_id": "103992786357969",
-    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=681743260540624&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
-    "ad_delivery_start_time": "2023-09-19",
-    "ad_delivery_stop_time": "2023-09-20",
-    "id": "681743260540624",
-    "librarylink": "https://www.facebook.com/ads/library/?id=681743260540624"
-  },
-  {
-    "page_id": "103992786357969",
-    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=6962727213770845&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
-    "ad_delivery_start_time": "2023-09-19",
-    "ad_delivery_stop_time": "2023-09-20",
-    "id": "6962727213770845",
-    "librarylink": "https://www.facebook.com/ads/library/?id=6962727213770845"
-  },
-  {
-    "page_id": "103992786357969",
     "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=349527940923814&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
     "ad_delivery_start_time": "2023-09-19",
     "ad_delivery_stop_time": "2023-10-04",
     "id": "349527940923814",
     "librarylink": "https://www.facebook.com/ads/library/?id=349527940923814"
-  },
-  {
-    "page_id": "103992786357969",
-    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=610403201268609&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
-    "ad_delivery_start_time": "2023-09-19",
-    "ad_delivery_stop_time": "2023-09-20",
-    "id": "610403201268609",
-    "librarylink": "https://www.facebook.com/ads/library/?id=610403201268609"
   },
   {
     "page_id": "100270799610910",
@@ -15714,36 +15573,12 @@
     "librarylink": "https://www.facebook.com/ads/library/?id=882881692773121"
   },
   {
-    "page_id": "184486342432132",
-    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=638897185013606&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
-    "ad_delivery_start_time": "2023-09-18",
-    "ad_delivery_stop_time": "2023-09-20",
-    "id": "638897185013606",
-    "librarylink": "https://www.facebook.com/ads/library/?id=638897185013606"
-  },
-  {
     "page_id": "105399805738130",
     "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=227117993345982&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
     "ad_delivery_start_time": "2023-09-18",
     "ad_delivery_stop_time": "2024-02-06",
     "id": "227117993345982",
     "librarylink": "https://www.facebook.com/ads/library/?id=227117993345982"
-  },
-  {
-    "page_id": "79000285101",
-    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=332129442539705&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
-    "ad_delivery_start_time": "2023-09-18",
-    "ad_delivery_stop_time": "2023-09-19",
-    "id": "332129442539705",
-    "librarylink": "https://www.facebook.com/ads/library/?id=332129442539705"
-  },
-  {
-    "page_id": "79000285101",
-    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3797015287236112&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
-    "ad_delivery_start_time": "2023-09-18",
-    "ad_delivery_stop_time": "2023-09-19",
-    "id": "3797015287236112",
-    "librarylink": "https://www.facebook.com/ads/library/?id=3797015287236112"
   },
   {
     "page_id": "106856234869612",
@@ -15855,14 +15690,6 @@
     "ad_delivery_stop_time": "2023-09-25",
     "id": "1418615472048151",
     "librarylink": "https://www.facebook.com/ads/library/?id=1418615472048151"
-  },
-  {
-    "page_id": "224677250909804",
-    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2015631658783716&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
-    "ad_delivery_start_time": "2023-09-02",
-    "ad_delivery_stop_time": "2023-09-21",
-    "id": "2015631658783716",
-    "librarylink": "https://www.facebook.com/ads/library/?id=2015631658783716"
   },
   {
     "page_id": "57192132655",
@@ -16111,14 +15938,6 @@
     "ad_delivery_stop_time": "2023-11-28",
     "id": "226535393685714",
     "librarylink": "https://www.facebook.com/ads/library/?id=226535393685714"
-  },
-  {
-    "page_id": "360385484815323",
-    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=227806570193873&access_token=EAAGVDtrkrTsBO0jxDMclztAW5or990OTK8yZAmfSXP4c7NmCebWNZBjJUlZAV8tlu3dbD5p2K2qRSorxqmylNKhLuHLuJnE6jsjTNnZBU7pjf5sHVlzucXGZAZAsBdNZCR1LXi4JYDHUSLK8CAAmmswn1qkGzGzeDxezDkEXgbN5sFPaJ1GjhECdmMf02jmNXcEmz34gXus",
-    "ad_delivery_start_time": "2023-06-29",
-    "ad_delivery_stop_time": "2023-09-21",
-    "id": "227806570193873",
-    "librarylink": "https://www.facebook.com/ads/library/?id=227806570193873"
   },
   {
     "page_id": "178362315106",

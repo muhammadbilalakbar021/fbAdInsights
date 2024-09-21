@@ -51,6 +51,30 @@ export class InsightsController {
     }
   }
 
+  @Public()
+  @UsePipes(new ValidationPipe({ transform: true }))
+  @UseInterceptors(ClassSerializerInterceptor)
+  @Post('scrape_fb_ad')
+  async scrapeFbAd(
+    @Req() req,
+    @Body() get_insights_dto: any,
+    @Res() res: Response,
+  ) {
+    try {
+      const result = await this.insightsService.scrapeTextFromEUAdAudience(
+        get_insights_dto.url,
+      );
+      if (result) {
+        this.responseService.successResponse(true, result, res);
+        return;
+      } else {
+        this.responseService.badRequestResponse('Not data found', res);
+      }
+    } catch (error) {
+      this.responseService.serverFailureResponse(error.message, res);
+    }
+  }
+
   @UsePipes(new ValidationPipe({ transform: true }))
   @UseInterceptors(ClassSerializerInterceptor)
   @Post()
